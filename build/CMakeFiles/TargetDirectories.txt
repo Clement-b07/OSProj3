@@ -1,0 +1,4 @@
+/mnt/c/Users/clb1808/OneDrive - University of Tulsa/Desktop/Operating/OSProj3/build/CMakeFiles/server.dir
+/mnt/c/Users/clb1808/OneDrive - University of Tulsa/Desktop/Operating/OSProj3/build/CMakeFiles/client.dir
+/mnt/c/Users/clb1808/OneDrive - University of Tulsa/Desktop/Operating/OSProj3/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/clb1808/OneDrive - University of Tulsa/Desktop/Operating/OSProj3/build/CMakeFiles/rebuild_cache.dir
